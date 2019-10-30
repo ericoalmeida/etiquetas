@@ -18,37 +18,32 @@
 
 # Exemplo
 
-<p style="backgrund=#e5e5e5;">
+```
+I8,A,001
+
+
+Q224,024
+q831
+rN
+S4
+D7
+ZT
+JF
+OD
+R16,0
+f100
+N
+A784,200,2,4,1,1,N,"[DESCRICAO]"
+A433,80,2,4,1,1,N,"[FANTASIA]"
+A783,49,2,4,1,1,N,"[CODIGO]"
+B762,165,2,E30,2,4,94,B,"[CODBARRAS]"
+A392,147,2,5,1,1,N,"[VALOR]"
+P1
 
 ```
-I8,A,001 <br />
 
-<br />
-Q224,024 <br />
-q831 <br />
-rN <br />
-S4 <br />
-<strong>D</strong>7 <br />
-ZT <br />
-JF <br />
-OD <br />
-R16,0 <br />
-f100 <br />
-N <br />
-A784,200,2,4,1,1,N,"<strong>[DESCRICAO]</strong>" <br />
-A433,80,2,4,1,1,N,"<strong>[FANTASIA]</strong>" <br />
-A783,49,2,4,1,1,N,"<strong>[CODIGO]</strong>" <br />
-B762,165,2,E30,2,4,94,B,"<strong>[CODBARRAS]</strong>" <br />
-A392,147,2,5,1,1,N,"<strong>[VALOR]</strong>" <br />
-<strong>P</strong>1 <br />
+O parâmetro abaixo: e o valor da temperatura da cabeça de impressão.
+> Recebe um valor entre 0 e 15.
 ```
-
-<br />
-
-
-</p>
-
-
-As informações em <strong>Negrito</strong>, são informações que o software precisará alterar 
-para realizar a impressao das etiquetas.
-
+D7
+```
