@@ -19,27 +19,28 @@
 # Exemplo
 
 <code>
-I8,A,001
+I8,A,001 <br />
 
+<br />
+Q224,024<br />
+q831<br />
+rN<br />
+S4<br />
+<strong>D</strong>7<br />
+ZT<br />
+JF<br />
+OD<br />
+R16,0<br />
+f100<br />
+N<br />
+A784,200,2,4,1,1,N,"<strong>[DESCRICAO]</strong>"<br />
+A433,80,2,4,1,1,N,"<strong>[FANTASIA]</strong>"<br />
+A783,49,2,4,1,1,N,"<strong>[CODIGO]</strong>"<br />
+B762,165,2,E30,2,4,94,B,"<strong>[CODBARRAS]</strong>"<br />
+A392,147,2,5,1,1,N,"<strong>[VALOR]</strong>"<br />
+<strong>P</strong>1<br />
 
-Q224,024
-q831
-rN
-S4
-<strong>D</strong>7
-ZT
-JF
-OD
-R16,0
-f100
-N
-A784,200,2,4,1,1,N,"<strong>[DESCRICAO]</strong>"
-A433,80,2,4,1,1,N,"<strong>[FANTASIA]</strong>"
-A783,49,2,4,1,1,N,"<strong>[CODIGO]</strong>"
-B762,165,2,E30,2,4,94,B,"<strong>[CODBARRAS]</strong>"
-A392,147,2,5,1,1,N,"<strong>[VALOR]</strong>"
-<strong>P</strong>1
-
+<br />
 </code>
 
 As informações em <strong>Negrito</strong>, são informações que o software precisará alterar 
