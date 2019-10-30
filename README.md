@@ -22,9 +22,9 @@
 I8,A,001 <br />
 
 <br />
-Q224,024<br />
-q831<br />
-rN<br />
+Q224,024 <br />
+q831 <br />
+rN <br />
 S4<br />
 <strong>D</strong>7<br />
 ZT<br />
