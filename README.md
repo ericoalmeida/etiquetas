@@ -17,6 +17,7 @@
 
 
 # Exemplo
+<p>
 
 <code>
 I8,A,001 <br />
@@ -42,6 +43,8 @@ A392,147,2,5,1,1,N,"<strong>[VALOR]</strong>"<br />
 
 <br />
 </code>
+</sp>
+
 
 As informações em <strong>Negrito</strong>, são informações que o software precisará alterar 
 para realizar a impressao das etiquetas.
