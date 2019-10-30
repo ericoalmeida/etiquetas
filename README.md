@@ -19,6 +19,8 @@
 # Exemplo
 
 <p style="backgrund=#e5e5e5;">
+
+```
 I8,A,001 <br />
 
 <br />
@@ -39,6 +41,7 @@ A783,49,2,4,1,1,N,"<strong>[CODIGO]</strong>" <br />
 B762,165,2,E30,2,4,94,B,"<strong>[CODBARRAS]</strong>" <br />
 A392,147,2,5,1,1,N,"<strong>[VALOR]</strong>" <br />
 <strong>P</strong>1 <br />
+```
 
 <br />
 
