@@ -17,9 +17,10 @@
 
 
 # Exemplo
+
 <p>
 
-<code>
+
 I8,A,001 <br />
 
 <br />
@@ -42,7 +43,8 @@ A392,147,2,5,1,1,N,"<strong>[VALOR]</strong>" <br />
 <strong>P</strong>1 <br />
 
 <br />
-</code>
+
+
 </p>
 
 
