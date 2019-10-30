@@ -18,6 +18,8 @@
 
 # Exemplo
 
+> Etiqueta utilizando a linguagem PPLB.
+
 ```
 I8,A,001
 
@@ -44,13 +46,20 @@ P1
 
 # Parâmetros
 
-O parâmetro "D" representado abaixo: e o valor da temperatura da cabeça de impressão.
+O parâmetro <strong>"D"</strong> representado abaixo: e o valor da temperatura da cabeça de impressão.
 > Recebe um valor entre 0 e 15.
 ```
 D7
 ```
 
-O parâmetro "P" representado abaixo: e o numero de linhas a ser impressa.
+Os parâmetros entre <strong>" "</strong> representado abaixo: serão substituídos pelos valores correspondentes
+de cada produto. <br />
+>Software ERP deve ler as variáveis e substituir pela informação correpondente do produto.
+```
+A784,200,2,4,1,1,N,"[DESCRICAO]"
+```
+
+O parâmetro <strong>"P"</strong> representado abaixo: e o numero de linhas a ser impressa. <br />
 <i> Se a etiqueta for de 3 colunas, ou seja, 3 etiquetas por linha. nesse parametro estiver configurado com o valor 2. será impresso 6 etiquetas. </i>
 ```
 P1
