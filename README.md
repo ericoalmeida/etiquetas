@@ -42,8 +42,16 @@ P1
 
 ```
 
-O parâmetro abaixo: e o valor da temperatura da cabeça de impressão.
+# Parâmetros
+
+O parâmetro "D" representado abaixo: e o valor da temperatura da cabeça de impressão.
 > Recebe um valor entre 0 e 15.
 ```
 D7
+```
+
+O parâmetro "P" representado abaixo: e o numero de linhas a ser impressa.
+<i> Se a etiqueta for de 3 colunas, ou seja, 3 etiquetas por linha. nesse parametro estiver configurado com o valor 2. será impresso 6 etiquetas. </i>
+```
+P1
 ```
